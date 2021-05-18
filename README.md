@@ -21,9 +21,9 @@ I am Artem Senin, data scientist from Moscow, Russia
 
 
 #### How to reach me
-📱 Telegram: \textit{NorNikolay}
+📱 Telegram: *NorNikolay*
 
-📩 E-mail: \textit{artemseninhse@gmail.com}
+📩 E-mail: *artemseninhse@gmail.com*
 
 <!--
 **artemseninhse/artemseninhse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
