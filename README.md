@@ -2,7 +2,7 @@
 
 I am Artem Senin, data scientist from Moscow, Russia
 
-#### My interests
+### My interests
 
 💻 Writing applications with the use of machine learning models
 
@@ -11,7 +11,7 @@ I am Artem Senin, data scientist from Moscow, Russia
 💪🏻 Training neural networks
 
 
-#### Some irrelevant information
+### Some irrelevant information
 
 🏆 Former go-kart racer (3rd place in Russian Championship)
 
@@ -20,7 +20,7 @@ I am Artem Senin, data scientist from Moscow, Russia
 😦 Have never watched Game of Thrones
 
 
-#### How to reach me
+### How to reach me
 📱 Telegram: *NorNikolay*
 
 📩 E-mail: *artemseninhse@gmail.com*
