@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Artem Senin, data scientist from Moscow, Russia, studying computer science in Higher School of Economics
+I am Artem Senin, ML Engineer from Moscow, Russia
 
 ### My interests
 
