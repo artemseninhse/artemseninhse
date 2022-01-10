@@ -8,8 +8,6 @@ I am Artem Senin, data scientist from Moscow, Russia, studying computer science 
 
 🔧 Creating utilities for data processing
 
-💪🏻 Training neural networks
-
 
 ### Some irrelevant information
 
