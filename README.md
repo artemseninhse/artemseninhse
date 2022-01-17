@@ -15,9 +15,6 @@ I am Artem Senin, ML Engineer from Moscow, Russia
 
 🏎️ Motor racing fan
 
-😦 Have never watched Game of Thrones
-
-
 ### How to reach me
 📱 Telegram: *NorNikolay*
 
