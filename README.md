@@ -16,7 +16,6 @@ I am Artem Senin, ML Engineer from Moscow, Russia
 🏎️ Motor racing fan
 
 ### How to reach me
-📱 Telegram: *NorNikolay*
 
 📩 E-mail: *artemseninhse@gmail.com*
 
