@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Artem Senin, ML Engineer from Moscow, Russia
+I am Artem Senin, Norilsk Nickel from Moscow, Russia
 
 ### My interests
 
