@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Artem Senin, Norilsk Nickel from Moscow, Russia
+I am Artem Senin, Data Scientist from Moscow, Russia
 
 ### My interests
 
