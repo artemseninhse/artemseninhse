@@ -1,23 +1,10 @@
 ## Hi there 👋
 
-I am Artem Senin, Data Scientist from Moscow, Russia
-
-### My interests
-
-💻 Writing applications with the use of machine learning models
-
-🔧 Creating utilities for data processing
-
-
-### Some irrelevant information
-
-🏆 Former go-kart racer (3rd place in Russian Championship)
-
-🏎️ Motor racing fan
+I am Artem Senin, MLOps Engineer from Moscow, Russia
 
 ### How to reach me
 
-📩 E-mail: *artemseninhse@gmail.com*
+📩 E-mail: *sen1nartem@yandex.ru*
 
 <!--
 **artemseninhse/artemseninhse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
